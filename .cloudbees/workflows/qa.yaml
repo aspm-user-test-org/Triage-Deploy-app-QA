@@ -13,4 +13,3 @@ jobs:
           labels: QA2
           artifact-id: ad066345-0b0b-4b05-afa9-1a66d68827b8
           target-environment: QA-env
-
